@@ -1,6 +1,8 @@
 # PHP-Privacy
 A component to implement privacy by design in your PHP project.
 
+This component follows a discussion on [Symfony](https://github.com/symfony/symfony) in [#26231](https://github.com/symfony/symfony/issues/26231).
+
 EU Law
 ------
 
